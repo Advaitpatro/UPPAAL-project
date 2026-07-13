@@ -73,6 +73,3 @@ Add these in UPPAAL’s **Verifier** tab (adjust names if your model uses differ
 - Mutual exclusion for green:
   - `A[] not (ns_is_green and ew_is_green)`
 
-## License
-
-Add a license file (MIT/Apache-2.0/etc.) if you plan to publish publicly.
